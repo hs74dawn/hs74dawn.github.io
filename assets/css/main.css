@@ -3940,6 +3940,51 @@ input, select, textarea {
 #visual>div.on{
   opacity: 1;
 }
+
+#visual2 {
+  position: relative;
+  width: auto;
+  height:  400px;
+  margin: 0 auto;
+  overflow: scroll;           
+  box-shadow: 1px 5px 10px 2px #666;
+
+}      
+#visual2>div {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: auto;
+  height: auto;
+  transform:translate(-50%,50%)
+  transition: 0.3s ease;
+  opacity: 0;
+}
+#visual2>div.on{
+  opacity: 1;
+}
+#visual3 {
+  position: relative;
+  width: auto;
+  height:  400px;
+  margin: 0 auto;
+  overflow: scroll;           
+  box-shadow: 1px 5px 10px 2px #666;
+
+}      
+#visual3>div {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: auto;
+  height: auto;
+  transform:translate(-50%,50%)
+  transition: 0.3s ease;
+  opacity: 0;
+}
+#visual3>div.on{
+  opacity: 1;
+}
 #control { 
   position: absolute;
   width: 100%;
