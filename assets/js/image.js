@@ -8,7 +8,7 @@
     $("#visual>div").eq(idx).addClass('on').siblings().removeClass('on');
   });
   
-setInterval(AutoRun, 6000);
+setInterval(AutoRun, 3000);
   
 function AutoRun(){
   if(srt == idx_lgth){
