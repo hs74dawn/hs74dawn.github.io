@@ -3917,13 +3917,34 @@ input, select, textarea {
 
 
 
-#slide3{
-    width: 100%;
-    border-bottom: 1px solid dimgrey;
-    margin: 0 2em 0 0;
+
+ #slide3{
+     position:center center;
+      width: 100%;
+} 
+
+ #slide3>ul>li{
+     position:center center;
+      top:0;
+      left:0;
+      display:none;
+      -webkit-display:block;
 }
 
-#slide3>ul>li{
-    position: absolute;
-    font-size: 0;
-}
+
+
+ #slide1{
+      position:center center;
+      width: 100%;
+    }
+    #slide1 li{
+      position:center center;
+      top:0;
+      left:0;
+      display:none;
+      -webkit-display:block;
+    }
+    #slide1 img{
+      width:auto;
+      height: auto;
+    } 
