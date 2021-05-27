@@ -3912,36 +3912,15 @@ input, select, textarea {
     
 
 /*--------좌우슬라이딩---------*/
-#index_01{
-    width: 1200px;
-    height: 400px;
-    border: 1px solid dimgrey;
-    margin: 0 auto;
-}
 
 
 
-/*--------페이드인아웃---------*/
-#index_03{
-    width: 100x;
-    height: 140px;
-    border: 1px solid dimgrey;
-    margin: 2px 2px;
-}
 
-#header3{
-    height: 100px;
-    border-bottom: 1px solid dimgrey;
-    box-sizing: border-box;
-    text-align: center;
-    line-height: 100px;
-    font-size: 1.5rem;
-}
 
 #slide3{
-    height: 100px;
+    width: 100%;
     border-bottom: 1px solid dimgrey;
-    text-align: center;
+    margin: 0 2em 0 0;
 }
 
 #slide3>ul>li{
