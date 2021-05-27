@@ -3921,7 +3921,7 @@ input, select, textarea {
 #visual {
   position: relative;
   width: auto;
-  height:  48rem;
+  height:  400px;
   margin: 0 auto;
   overflow: scroll;           
   box-shadow: 1px 5px 10px 2px #666;
