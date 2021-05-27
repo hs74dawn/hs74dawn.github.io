@@ -1800,7 +1800,7 @@ input, select, textarea {
 	.box {
 		border-radius: 0.25em;
 		border: solid 1px rgba(255, 255, 255, 0.15);
-		margin-bottom: 2em;
+		margin-bottom: 0em;
 		padding: 1.5em;
 	}
 
