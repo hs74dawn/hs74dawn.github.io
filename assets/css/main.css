@@ -3920,7 +3920,8 @@ input, select, textarea {
 
  #slide3{
      position:center center;
-      width: 100%;
+     width: 100%;
+     border-bottom: 1px solid dimgrey;
 } 
 
  #slide3>ul>li{
@@ -3929,7 +3930,26 @@ input, select, textarea {
       left:0;
       display:none;
       -webkit-display:block;
+     
+
+
 }
+
+ #slide{
+      position:center center;
+      width: 100%;
+    }
+    #slide li{
+      position:center center;
+      top:0;
+      left:0;
+      display:none;
+      -webkit-display:block;
+    }
+    #slide img{
+      width:auto;
+      height: auto;
+    } 
 
 
 
